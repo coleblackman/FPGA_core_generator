@@ -1,4 +1,4 @@
-# FPGA_core_generator
+# FPGA Core Generator
 Generates a valid fpga_core hardware description based on input fpga_top.v
 
 To run this script, you need an fpga_top.v somewhere on your filesystem.
